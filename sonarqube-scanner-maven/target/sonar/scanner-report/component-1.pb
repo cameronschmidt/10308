@@ -1,1 +1,0 @@
-Support 10308 :J1.0-SNAPSHOTRsupport.sonarqube:parent

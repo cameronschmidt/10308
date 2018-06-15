@@ -1,1 +1,0 @@
-app-itJaCoco Multi Modules :: App IT :J1.0-SNAPSHOTRsupport.sonarqube:app-it
