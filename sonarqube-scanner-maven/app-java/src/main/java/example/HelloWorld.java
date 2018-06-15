@@ -7,6 +7,8 @@ public class HelloWorld {
     System.out.println("coveredByUnitTest2");
     // TODO: fix this line!
     System.out.println("coveredByUnitTest3");
+    // TODO: also fix this line!
+    System.out.println("coveredByUnitTest4");
     return 0;
   }
 

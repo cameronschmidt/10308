@@ -6,7 +6,7 @@
   <artifactId>parent</artifactId>
   <groupId>support.sonarqube</groupId>
   <packaging>pom</packaging>
-  <version>9.4</version>
+  <version>9.5</version>
 
   <name>Support 10308</name>
 
