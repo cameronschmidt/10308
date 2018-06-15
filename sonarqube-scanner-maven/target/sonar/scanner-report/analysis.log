@@ -1,0 +1,221 @@
+Environment variables:
+  - ANT_HOME=/Users/cameronschmidt/util/bin/apache-ant-1.10.1
+  - Apple_PubSub_Socket_Render=/private/tmp/com.apple.launchd.HGiFhaUk77/Render
+  - COLORFGBG=7;0
+  - HOME=/Users/cameronschmidt
+  - ITERM_PROFILE=Default
+  - ITERM_SESSION_ID=w1t0p0:8D1C178C-788C-4756-8CA7-28A49E6ED631
+  - JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home
+  - JAVA_MAIN_CLASS_53650=org.codehaus.plexus.classworlds.launcher.Launcher
+  - LC_CTYPE=UTF-8
+  - LOGNAME=cameronschmidt
+  - MAVEN_CMD_LINE_ARGS= sonar:sonar
+  - MAVEN_PROJECTBASEDIR=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven
+  - OLDPWD=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven
+  - PATH=/Users/cameronschmidt/util/bin/apache-ant-1.10.1/bin:/usr/local/apache-maven-3.3.9/bin:/Users/cameronschmidt/bin:/Users/cameronschmidt/util/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+  - PWD=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven
+  - SHELL=/bin/bash
+  - SHLVL=1
+  - SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.loQC7IwZua/Listeners
+  - TERM=xterm-256color
+  - TERM_PROGRAM=iTerm.app
+  - TERM_PROGRAM_VERSION=3.0.13
+  - TERM_SESSION_ID=w1t0p0:8D1C178C-788C-4756-8CA7-28A49E6ED631
+  - TMPDIR=/var/folders/sf/l0xnlb8s083fktdnrkrxd1p40000gp/T/
+  - TOKEN56=10d0dedf86e40c768852bca77e71fbca0e58cf03
+  - TOKEN62=6483d7642ce3ff6a7ed2515dc3be6709a97464d7
+  - TOKEN66=e4cbd89bd4a3ff33ffb3dbcefac669aab58ea217
+  - TOKEN_5005=c63588137817e1d70a8fa73807ecd5c7a1f1bb16
+  - TOKEN_VIEWER=f5971a3efb3ab6390f35844098c701bd68fecc16
+  - TOKEN_VIEWER_6452=917b60d00fe270c9d310343b7d5d15501df11ace
+  - TOKEN_VSTS2=de6e214d7e7bba11fb21e4e29b7108511d822ebb
+  - USER=cameronschmidt
+  - XPC_FLAGS=0x0
+  - XPC_SERVICE_NAME=0
+  - __CF_USER_TEXT_ENCODING=0x1F6:0x0:0x0
+System properties:
+  - awt.toolkit=sun.lwawt.macosx.LWCToolkit
+  - classworlds.conf=/usr/local/apache-maven-3.3.9/bin/m2.conf
+  - file.encoding=UTF-8
+  - file.encoding.pkg=sun.io
+  - file.separator=/
+  - ftp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16
+  - gopherProxySet=false
+  - guice.disable.misplaced.annotation.check=true
+  - http.nonProxyHosts=local|*.local|169.254/16|*.169.254/16
+  - java.awt.graphicsenv=sun.awt.CGraphicsEnvironment
+  - java.awt.printerjob=sun.lwawt.macosx.CPrinterJob
+  - java.class.path=/usr/local/apache-maven-3.3.9/boot/plexus-classworlds-2.5.2.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/endorsed
+  - java.ext.dirs=/Users/cameronschmidt/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+  - java.home=/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre
+  - java.io.tmpdir=/var/folders/sf/l0xnlb8s083fktdnrkrxd1p40000gp/T/
+  - java.library.path=/Users/cameronschmidt/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_112-b16
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_112
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.112-b16
+  - line.separator=
+
+  - maven.home=/usr/local/apache-maven-3.3.9
+  - maven.multiModuleProjectDirectory=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven
+  - os.arch=x86_64
+  - os.name=Mac OS X
+  - os.version=10.13.4
+  - path.separator=:
+  - socksNonProxyHosts=local|*.local|169.254/16|*.169.254/16
+  - sun.arch.data.model=64
+  - sun.boot.class.path=/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/classes
+  - sun.boot.library.path=/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=
+  - sun.io.unicode.encoding=UnicodeBig
+  - sun.java.command=org.codehaus.plexus.classworlds.launcher.Launcher sonar:sonar
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=UTF-8
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=unknown
+  - user.country=US
+  - user.country.format=CH
+  - user.dir=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven
+  - user.home=/Users/cameronschmidt
+  - user.language=en
+  - user.name=cameronschmidt
+  - user.timezone=Europe/Zurich
+SonarQube plugins:
+  - Branch 1.0.0.507 (branch)
+  - SonarQube :: Plugins :: SCM :: SVN 1.6.0.860 (scmsvn)
+  - SonarPLSQL 3.2.0.1753 (plsql)
+  - SonarC# 6.5.0.3766 (csharp)
+  - SonarJava 5.3.0.13828 (java)
+  - SonarWeb 2.6.0.1053 (web)
+  - SonarFlex 2.4.0.1222 (flex)
+  - SonarXML 1.4.3.1027 (xml)
+  - SonarTS 1.6.0.2388 (typescript)
+  - SonarVB 4.2.0.248 (vbnet)
+  - SonarSwift 3.1.0.2067 (swift)
+  - SonarCFamily 5.1.0.10083 (cpp)
+  - SonarPython 1.8.0.1496 (python)
+  - SonarRPG 2.2.0.1005 (rpg)
+  - SonarPLI 1.9.0.1349 (pli)
+  - SonarTSQL 1.2.0.2539 (tsql)
+  - SonarVB6 2.3.0.992 (vb)
+  - SonarJS 4.1.0.6085 (javascript)
+  - License 3.3.0.1341 (license)
+  - Groovy 1.5 (groovy)
+  - SonarCOBOL 4.2.0.2826 (cobol)
+  - SonarQube :: Plugins :: SCM :: Git 1.3.0.869 (scmgit)
+  - SonarPHP 2.13.0.3107 (php)
+  - Developer 1.0.0.240 (developer)
+  - SonarABAP 3.5.0.1080 (abap)
+  - Governance 2.0.2.3011 (governance)
+Global properties:
+  - email.from=cameron.schmidt@sonarsource.com
+  - email.prefix=[SONARQUBE]
+  - email.smtp_host.secured=******
+  - email.smtp_password.secured=******
+  - email.smtp_port.secured=******
+  - email.smtp_secure_connection.secured=******
+  - email.smtp_username.secured=******
+  - sonar.c.file.suffixes=.deactivated
+  - sonar.core.id=14f3eefd9a9e0aa
+  - sonar.core.serverBaseURL=http://localhost:9067/
+  - sonar.core.startTime=2018-06-05T22:21:28+0200
+  - sonar.cpp.file.suffixes=.cc,.cpp,.cxx,.c++,.hh,.hpp,.hxx,.h++,.ipp,.h
+  - sonar.pli.marginRight=0
+  - sonar.rpg.leftMarginWidth=0
+  - sonar.rpg.suffixes=.rpg,.rpgle,.RPG,.RPGLE,.SQLRPGLE
+  - sonar.svn.password.secured=******
+  - sonar.svn.username=buildmanager
+  - sonar.webhooks.global=1
+  - sonar.webhooks.global.1.name=Jenkins
+  - sonar.webhooks.global.1.url=http://localhost:8080/sonarqube-webhook/
+Settings for module: support.sonarqube:app-groovy
+  - sonar.binaries=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-groovy/target/classes
+  - sonar.jacoco.itReportPath=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-groovy/../target/jacoco-it.exec
+  - sonar.java.binaries=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-groovy/target/classes
+  - sonar.java.libraries=/Users/cameronschmidt/.m2/repository/org/codehaus/groovy/groovy-all/2.4.7/groovy-all-2.4.7.jar
+  - sonar.java.test.binaries=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-groovy/target/test-classes
+  - sonar.java.test.libraries=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-groovy/target/classes,/Users/cameronschmidt/.m2/repository/org/codehaus/groovy/groovy-all/2.4.7/groovy-all-2.4.7.jar,/Users/cameronschmidt/.m2/repository/junit/junit/4.12/junit-4.12.jar,/Users/cameronschmidt/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+  - sonar.junit.reportPaths=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-groovy/target/surefire-reports
+  - sonar.junit.reportsPath=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-groovy/target/surefire-reports
+  - sonar.libraries=/Users/cameronschmidt/.m2/repository/org/codehaus/groovy/groovy-all/2.4.7/groovy-all-2.4.7.jar
+  - sonar.moduleKey=support.sonarqube:app-groovy
+  - sonar.projectBaseDir=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-groovy
+  - sonar.projectBuildDir=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-groovy/target
+  - sonar.projectKey=support.sonarqube:app-groovy
+  - sonar.projectName=Groovy :: JaCoco Multi Modules :: App
+  - sonar.sources=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-groovy/pom.xml
+  - sonar.working.directory=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-groovy/target/sonar
+Settings for module: support.sonarqube:app-java
+  - sonar.binaries=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-java/target/classes
+  - sonar.jacoco.itReportPath=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-java/../target/jacoco-it.exec
+  - sonar.java.binaries=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-java/target/classes
+  - sonar.java.test.binaries=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-java/target/test-classes
+  - sonar.java.test.libraries=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-java/target/classes,/Users/cameronschmidt/.m2/repository/junit/junit/4.12/junit-4.12.jar,/Users/cameronschmidt/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+  - sonar.junit.reportPaths=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-java/target/surefire-reports
+  - sonar.junit.reportsPath=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-java/target/surefire-reports
+  - sonar.moduleKey=support.sonarqube:app-java
+  - sonar.projectBaseDir=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-java
+  - sonar.projectBuildDir=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-java/target
+  - sonar.projectKey=support.sonarqube:app-java
+  - sonar.projectName=Java :: JaCoco Multi Modules :: App
+  - sonar.sources=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-java/pom.xml,/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-java/src/main/java
+  - sonar.tests=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-java/src/test/java
+  - sonar.working.directory=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-java/target/sonar
+Settings for module: support.sonarqube:app-it
+  - sonar.binaries=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-it/target/classes
+  - sonar.jacoco.itReportPath=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-it/../target/jacoco-it.exec
+  - sonar.java.binaries=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-it/target/classes
+  - sonar.java.libraries=/Users/cameronschmidt/.m2/repository/support/sonarqube/app-java/1.0-SNAPSHOT/app-java-1.0-SNAPSHOT.jar
+  - sonar.java.test.binaries=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-it/target/test-classes
+  - sonar.java.test.libraries=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-it/target/classes,/Users/cameronschmidt/.m2/repository/support/sonarqube/app-java/1.0-SNAPSHOT/app-java-1.0-SNAPSHOT.jar,/Users/cameronschmidt/.m2/repository/junit/junit/4.12/junit-4.12.jar,/Users/cameronschmidt/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+  - sonar.junit.reportPaths=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-it/target/surefire-reports
+  - sonar.junit.reportsPath=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-it/target/surefire-reports
+  - sonar.libraries=/Users/cameronschmidt/.m2/repository/support/sonarqube/app-java/1.0-SNAPSHOT/app-java-1.0-SNAPSHOT.jar
+  - sonar.moduleKey=support.sonarqube:app-it
+  - sonar.projectBaseDir=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-it
+  - sonar.projectBuildDir=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-it/target
+  - sonar.projectKey=support.sonarqube:app-it
+  - sonar.projectName=JaCoco Multi Modules :: App IT
+  - sonar.sources=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-it/pom.xml,/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-it/src/main/java
+  - sonar.tests=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-it/src/test/java
+  - sonar.working.directory=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/app-it/target/sonar
+Settings for module: support.sonarqube:parent
+  - sonar.groovy.binaries=target/classes
+  - sonar.host.url=http://localhost:9067
+  - sonar.jacoco.itReportPath=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/../target/jacoco-it.exec
+  - sonar.java.source=1.7
+  - sonar.java.target=1.7
+  - sonar.java.test.libraries=/Users/cameronschmidt/.m2/repository/junit/junit/4.12/junit-4.12.jar,/Users/cameronschmidt/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+  - sonar.links.ci=
+  - sonar.links.homepage=
+  - sonar.links.issue=
+  - sonar.links.scm=
+  - sonar.links.scm_dev=
+  - sonar.moduleKey=support.sonarqube:parent
+  - sonar.modules=support.sonarqube:app-java,support.sonarqube:app-groovy,support.sonarqube:app-it
+  - sonar.projectBaseDir=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven
+  - sonar.projectBuildDir=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/target
+  - sonar.projectKey=support.sonarqube:parent
+  - sonar.projectName=Support 10308
+  - sonar.projectVersion=1.0-SNAPSHOT
+  - sonar.scanner.app=ScannerMaven
+  - sonar.scanner.appVersion=3.5.0.1151/3.3.9
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/pom.xml
+  - sonar.verbose=true
+  - sonar.working.directory=/Users/cameronschmidt/git/sonar/support-10308/sonarqube-scanner-maven/target/sonar

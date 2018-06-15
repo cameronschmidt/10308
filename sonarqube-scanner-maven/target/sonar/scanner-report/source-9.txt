@@ -5,8 +5,6 @@ public class HelloWorld {
   public int coveredByUnitTest() {
     System.out.println("coveredByUnitTest1");
     System.out.println("coveredByUnitTest2");
-    // TODO: fix this line!
-    System.out.println("coveredByUnitTest3");
     return 0;
   }
 
